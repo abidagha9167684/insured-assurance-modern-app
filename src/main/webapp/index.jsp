@@ -12,7 +12,7 @@
         <header class="hero">
             <div class="hero-text">
                 <p class="tag">Smart Insurance Platform</p>
-                <h1>Welcome to Insured Assurance</h1>
+                <h1>Welcome to Insured Assurance Updated</h1>
                 <p class="subtitle">
                     Secure your future with simple, fast, and trusted insurance services.
                 </p>
